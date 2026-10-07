@@ -1,0 +1,452 @@
+[
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788350400000,
+    "open": 0.41,
+    "high": 0.41,
+    "low": 0.41,
+    "close": 0.41,
+    "volume": 6
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788350100000,
+    "open": 0.43,
+    "high": 0.43,
+    "low": 0.42,
+    "close": 0.42,
+    "volume": 117
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788349800000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 7
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788349500000,
+    "open": 0.45,
+    "high": 0.45,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 16
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788349200000,
+    "open": 0.44,
+    "high": 0.45,
+    "low": 0.43,
+    "close": 0.43,
+    "volume": 29
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788348600000,
+    "open": 0.42,
+    "high": 0.43,
+    "low": 0.42,
+    "close": 0.43,
+    "volume": 14
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788348300000,
+    "open": 0.43,
+    "high": 0.43,
+    "low": 0.41,
+    "close": 0.41,
+    "volume": 141
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788348000000,
+    "open": 0.43,
+    "high": 0.44,
+    "low": 0.43,
+    "close": 0.43,
+    "volume": 165
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788347700000,
+    "open": 0.43,
+    "high": 0.43,
+    "low": 0.43,
+    "close": 0.43,
+    "volume": 227
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788347400000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.43,
+    "close": 0.43,
+    "volume": 334
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788347100000,
+    "open": 0.45,
+    "high": 0.45,
+    "low": 0.45,
+    "close": 0.45,
+    "volume": 35
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788346800000,
+    "open": 0.42,
+    "high": 0.45,
+    "low": 0.42,
+    "close": 0.44,
+    "volume": 36
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788346500000,
+    "open": 0.39,
+    "high": 0.4,
+    "low": 0.38,
+    "close": 0.4,
+    "volume": 25
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788346200000,
+    "open": 0.41,
+    "high": 0.41,
+    "low": 0.4,
+    "close": 0.4,
+    "volume": 3
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788345900000,
+    "open": 0.39,
+    "high": 0.4,
+    "low": 0.39,
+    "close": 0.4,
+    "volume": 503
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788345600000,
+    "open": 0.4,
+    "high": 0.42,
+    "low": 0.39,
+    "close": 0.39,
+    "volume": 249
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788345300000,
+    "open": 0.41,
+    "high": 0.41,
+    "low": 0.41,
+    "close": 0.41,
+    "volume": 8
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788345000000,
+    "open": 0.45,
+    "high": 0.45,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 163
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788344700000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 50
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788344400000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 24
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788344100000,
+    "open": 0.43,
+    "high": 0.44,
+    "low": 0.43,
+    "close": 0.44,
+    "volume": 59
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788343800000,
+    "open": 0.42,
+    "high": 0.42,
+    "low": 0.41,
+    "close": 0.42,
+    "volume": 26
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788343500000,
+    "open": 0.42,
+    "high": 0.42,
+    "low": 0.4,
+    "close": 0.42,
+    "volume": 17
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788343200000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.42,
+    "close": 0.42,
+    "volume": 164
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788342900000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 167
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788342600000,
+    "open": 0.44,
+    "high": 0.45,
+    "low": 0.44,
+    "close": 0.44,
+    "volume": 138
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788342300000,
+    "open": 0.4,
+    "high": 0.45,
+    "low": 0.4,
+    "close": 0.45,
+    "volume": 54
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788342000000,
+    "open": 0.4,
+    "high": 0.41,
+    "low": 0.4,
+    "close": 0.41,
+    "volume": 19
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788341700000,
+    "open": 0.4,
+    "high": 0.41,
+    "low": 0.39,
+    "close": 0.39,
+    "volume": 109
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788341400000,
+    "open": 0.44,
+    "high": 0.44,
+    "low": 0.4,
+    "close": 0.43,
+    "volume": 268
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788341100000,
+    "open": 0.42,
+    "high": 0.44,
+    "low": 0.42,
+    "close": 0.42,
+    "volume": 24
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788340800000,
+    "open": 0.39,
+    "high": 0.42,
+    "low": 0.38,
+    "close": 0.42,
+    "volume": 124
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788340500000,
+    "open": 0.4,
+    "high": 0.4,
+    "low": 0.39,
+    "close": 0.4,
+    "volume": 11
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788340200000,
+    "open": 0.37,
+    "high": 0.39,
+    "low": 0.37,
+    "close": 0.39,
+    "volume": 45
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788339900000,
+    "open": 0.4,
+    "high": 0.4,
+    "low": 0.36,
+    "close": 0.36,
+    "volume": 182
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788339600000,
+    "open": 0.4,
+    "high": 0.4,
+    "low": 0.39,
+    "close": 0.4,
+    "volume": 62
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788339300000,
+    "open": 0.37,
+    "high": 0.4,
+    "low": 0.37,
+    "close": 0.4,
+    "volume": 83
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788339000000,
+    "open": 0.36,
+    "high": 0.37,
+    "low": 0.35,
+    "close": 0.37,
+    "volume": 49
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788338700000,
+    "open": 0.37,
+    "high": 0.39,
+    "low": 0.36,
+    "close": 0.36,
+    "volume": 28
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788338400000,
+    "open": 0.38,
+    "high": 0.4,
+    "low": 0.38,
+    "close": 0.4,
+    "volume": 11
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788338100000,
+    "open": 0.37,
+    "high": 0.4,
+    "low": 0.37,
+    "close": 0.39,
+    "volume": 45
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788337800000,
+    "open": 0.37,
+    "high": 0.37,
+    "low": 0.36,
+    "close": 0.36,
+    "volume": 11
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788337500000,
+    "open": 0.4,
+    "high": 0.4,
+    "low": 0.37,
+    "close": 0.37,
+    "volume": 29
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788337200000,
+    "open": 0.37,
+    "high": 0.4,
+    "low": 0.37,
+    "close": 0.39,
+    "volume": 166
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788336900000,
+    "open": 0.45,
+    "high": 0.45,
+    "low": 0.38,
+    "close": 0.38,
+    "volume": 95
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788336600000,
+    "open": 0.47,
+    "high": 0.48,
+    "low": 0.46,
+    "close": 0.46,
+    "volume": 93
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788336300000,
+    "open": 0.47,
+    "high": 0.47,
+    "low": 0.46,
+    "close": 0.46,
+    "volume": 426
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788336000000,
+    "open": 0.47,
+    "high": 0.48,
+    "low": 0.47,
+    "close": 0.47,
+    "volume": 48
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788335700000,
+    "open": 0.47,
+    "high": 0.47,
+    "low": 0.47,
+    "close": 0.47,
+    "volume": 9
+  },
+  {
+    "product": "COX26-Z26-F27",
+    "time": 1788335400000,
+    "open": 0.48,
+    "high": 0.48,
+    "low": 0.47,
+    "close": 0.48,
+    "volume": 80
+  }
+]

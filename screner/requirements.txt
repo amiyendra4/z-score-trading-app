@@ -1,0 +1,6 @@
+streamlit>=1.60
+pandas>=2.2
+numpy>=2.0
+requests>=2.32
+lightstreamer-client-lib>=2.2.3,<3
+truststore>=0.10,<1
